@@ -1,4 +1,4 @@
-# Dependabot Reviewers to CODEOWNERS Migration
+# Dependabot Reviewers to CODEOWNERS Migration Pull Recuest 
 
 This GitHub Actions [workflow](https://raw.githubusercontent.com/dependabot/codeowner-migration-action/main/sync-dependabot-reviewers.yml) automatically migrates reviewers from your `.github/dependabot.yml` file to the `CODEOWNERS`.
 
